@@ -1,4 +1,4 @@
-# Create-a-Working-Contact-Form-in-HTML-That-emails-You
+# Create a Working Contact Form in-HTML-That-emails-You
 
 ### Source: https://www.youtube.com/watch?v=Yg6POD0M30w&t=360s
 
